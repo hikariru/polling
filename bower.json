@@ -1,0 +1,27 @@
+{
+  "name": "polling",
+  "version": "0.0.1",
+  "description": ":P",
+  "main": "index.html",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "WTFPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./vendors",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "marionette": "~2.2.1",
+    "require": "*",
+    "mocha": "~1.21.5",
+    "chai": "~1.9.2",
+    "bootstrap": "~3.2.0",
+    "JSON-js": "*",
+    "chart.js": "~0.1.0"
+  }
+}
